@@ -9,6 +9,9 @@
     "start": "node index.js"
   },
   "author": "",
+  "engines": {
+    "node": "18.18.2"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
